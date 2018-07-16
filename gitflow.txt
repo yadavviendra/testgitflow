@@ -1,7 +1,5 @@
 gitflow test
-<<<<<<< HEAD
 Changes by git master
 =======
 Added in master TP1
 Added in develop branch
->>>>>>> develop
